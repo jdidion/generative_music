@@ -38,3 +38,4 @@ Next steps are:
 
 * https://deepmind.com/blog/wavenet-generative-model-raw-audio/
 * https://aiexperiments.withgoogle.com/ai-duet
+* https://highnoongmt.wordpress.com/2015/05/22/lisls-stis-recurrent-neural-networks-for-folk-music-generation/
