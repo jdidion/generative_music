@@ -38,3 +38,4 @@ Next steps are:
 
 * https://deepmind.com/blog/wavenet-generative-model-raw-audio/
 * https://aiexperiments.withgoogle.com/ai-duet
+* DeepBach: https://arxiv.org/abs/1612.01010
